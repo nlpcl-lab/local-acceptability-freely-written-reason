@@ -1,4 +1,4 @@
-# annotation-tool
+# local-acceptability-freely-written-reason
 
 This repository provides a web server, can be used as a text annotation tool.
 
@@ -130,3 +130,6 @@ When you use this tool, please cite the paper:
     publisher = "Association for Computational Linguistics"
 }
 ```
+
+## Corpus
+For the corpus, please note that we release only the first three and last three words of the sentences, and we only upload the documents of which we can find alive link (including mirror link) due to the copyright issue. As the news editorials are from major news organizations, we are much careful about the copyright issue. If there is any problem with the copyright issue, please contact the email address above. I will promptly handle the problem(nlpcl-credon@nlp.kaist.ac.kr).
