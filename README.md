@@ -4,7 +4,7 @@ This repository provides a web server, can be used as a text annotation tool.
 
 Annotators can upload a document to the server, then the server automatically split the document into sentences. The annotators can annotate the attributes, and at the same time they can leave notes for each selection. The annotators can use keystrokes to navigate through different sentences. Users can export the annotation results as a JSON file.
 
-<img src="https://github.com/nlpcl-lab/local-acceptability-freely-written-reason/blob/master/static/img/screenshot.png">
+<img src="https://github.com/nlpcl-lab/local-acceptability-freely-written-reason/static/img/screenshot.png">
 
 
 ## JSON Export Format
